@@ -21,7 +21,5 @@
 
 </p>
 
-## Links
 
-You can create links in Markdown like this: [Google](https://www.google.com/).
 
