@@ -3,7 +3,6 @@
 ## About me
 
 - Currently a student in Science and Mathematics High School "Vasil Drumev".
-- To be a student in "St. Cyril and St. Methodius" University of Veliko Tarnovo.
 
 ## More info
 ### Tech stack
