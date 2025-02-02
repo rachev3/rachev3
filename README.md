@@ -2,7 +2,7 @@
 
 ## About me
 
-- Currently a student in Science and Mathematics High School "Vasil Drumev".
+- 
 
 ## More info
 ### Tech stack
