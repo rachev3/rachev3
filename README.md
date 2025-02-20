@@ -20,8 +20,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="Handlebars" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Render-logo-blue.svg" alt="Render" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" alt="Cloudinary" width="40" height="40" />
 
 </p>
 
