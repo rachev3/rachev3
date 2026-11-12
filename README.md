@@ -1,23 +1,29 @@
-<h1 align="center">👨‍💻 Dimitar Rachev</h1>
+<h1 align="center">Hi, I'm Dimitar Rachev 👋</h1>
 <p align="center">
-  Web Developer • Software Engineering Student • Tech Enthusiast from Bulgaria
+  Software Engineering student from Veliko Tarnovo, Bulgaria. I build full-stack web apps, browser games and AI-assisted tools.
+</p>
+
+<p align="center">
+  <a href="https://dimitar-rachev.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/dimitar-rachev-630765283/">LinkedIn</a> ·
+  <a href="mailto:ddrachev123@gmail.com">Email</a>
 </p>
 
 ---
 
-### 📚 About Me
+### 🔨 What I'm working on
 
-I’m currently pursuing a Bachelor's degree in Software Engineering at **VTU "St. Cyril and St. Methodius"**. I love taking on new challenges and constantly expanding my knowledge to stay ahead of the curve.
+- **Mahjong Rising**: a portrait Mahjong Solitaire journey through Bulgaria. Five cities, illustrated postcards and a daily puzzle. Built with Phaser, TypeScript and Vite.
+- **Token Burners**: a desktop business sim about vibe coding. You start with one computer and €100 and grow an AI-powered dev studio. Built with Electron and TypeScript.
+- **dimitar-rachev.com**: my personal and tech portfolio, running on Cloudflare Workers.
 
-- 🧠 Passionate about building smart and scalable software
-- 🤖 Deeply interested in artificial intelligence and its real-world applications
-- 💬 Strong communicator, quick learner, and team player
-- 🚀 Always seeking out new technologies and creative challenges
-  
----
+### 🧰 Tech I use
 
-### 📬 Contact Me
+**Languages:** TypeScript · JavaScript · C# · Python<br>
+**Backend:** ASP.NET Core · Node.js / Express · MongoDB · SQL Server<br>
+**Frontend:** React · Vite · Phaser · Electron<br>
+**Tooling:** Docker · Cloudflare Workers · Playwright / Crawlee · AI coding agents
 
-- 📧 Email: ddrachev123@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dimitar-rachev-630765283/)  
+### 🎓 Background
 
+3rd-year Software Engineering student (of 4) at **VTU "St. Cyril and St. Methodius"**. I'm especially interested in AI and how it changes the way software gets built.
